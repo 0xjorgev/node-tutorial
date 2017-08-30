@@ -1,0 +1,21 @@
+{
+  "name": "node-tutorial",
+  "version": "1.0.0",
+  "description": "Proyecto de pruebas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "javascript"
+  ],
+  "author": "Jorge Mendoza",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "knex": "^0.13.0"
+  }
+}
